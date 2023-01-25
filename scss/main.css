@@ -61,7 +61,7 @@
   background: #fff;
   transition: all 0.5s ease-in-out;
 }
-.menu-btn__burger .open {
+.menu-btn__burger.open {
   transform: rotate(720deg);
   background: transparent;
 }
